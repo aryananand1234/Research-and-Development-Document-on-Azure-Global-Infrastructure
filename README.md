@@ -1,0 +1,1 @@
+# Research-and-Development-Document-on-Azure-Global-Infrastructure
